@@ -31,14 +31,12 @@
         <li><a href="W02_01-OddEvenNumber.php">Odd Even Number</a></li>
         <li><a href="W02_02-grade.php">Operator in PHP</a></li>
         <li><a href="HW02-price.php">HW02-price</a></li>
+        <li><a href="W06_01_loopproduct.php">Show Product (fix data)</a></li>
+        <li><a href="">Connect Database</a></li>
+        <li><a href="">Show Product (From Database)</a></li>
     </ul>
 
 <hr>
-<h1 style="color: blue;"> เงื่อนไข (if/else)</h1>
-    <h2>คำนวณคะแนนสอบ</h2>
-    <?php
-    $score = 85;
-    if ($score )
-    ?>
+
 </body>
 </html>
