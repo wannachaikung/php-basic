@@ -32,7 +32,8 @@
         <li><a href="W02_02-grade.php">Operator in PHP</a></li>
         <li><a href="HW02-price.php">HW02-price</a></li>
         <li><a href="W06_01_loopproduct.php">Show Product (fix data)</a></li>
-        <li><a href="">Connect Database</a></li>
+        <li><a href="W07_01_connectDB.php">Connect Database</a></li>
+        <li><a href="W07_02_fetchData.php">Fetch data</a></li>
         <li><a href="">Show Product (From Database)</a></li>
     </ul>
 
